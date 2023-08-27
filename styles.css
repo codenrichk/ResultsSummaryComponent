@@ -155,8 +155,11 @@ li {
   background-color: #6796d8;
 }
 .score {
-  color: black;
+  color: #666d73;
   margin-right: 10px;
+}
+span {
+  color: #aeb0bc;
 }
 
 a {
