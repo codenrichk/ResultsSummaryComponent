@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "Hankengrotesk";
+  font-family: "Hankengrotesk", serif, sans-serif;
   box-sizing: border-box;
   margin: 0;
 }
